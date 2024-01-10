@@ -12,6 +12,7 @@ body {
     width: 200px;
 }
 #Educacion {
+    display: flex;
     background-image: url(/assets/imgs/bg-educacion.jpg);
     background-repeat: no-repeat;
     background-position: center;
