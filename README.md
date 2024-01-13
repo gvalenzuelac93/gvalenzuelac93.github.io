@@ -2,7 +2,7 @@ Repositorio:
 
 https://github.com/gvalenzuelac93/gvalenzuelac93.github.io
 
-Link a gitpages:
+Link a Github Pages:
 
 https://gvalenzuelac93.github.io/
 
